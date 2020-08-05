@@ -1,0 +1,7 @@
+name: DragonDrops
+version: 1.0
+main: tools.tgb.DragonDrops.DragonDrops
+description: Simple plugin to drop Dragon Loot
+api-version: 1.15
+author: tgb
+website: tgb.tools
